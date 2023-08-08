@@ -7,7 +7,6 @@ Create scalable Flutter apps with MVVM architecture, state management & dependen
 1. Clone the repository locally or use the template for your own projects:
 
 ```bash
-git clone https://github.com/fahadimran7/flutter_stacked_starter.git
 cd flutter_stacked_starter
 ```
 
